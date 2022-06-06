@@ -1,0 +1,15 @@
+body{
+  background-image: url('https://cdn.hipwallpaper.com/i/70/24/0d9xv5.jpg');
+}
+.clock{
+  position: absolute;
+  top: 20%;
+  left: 60%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #fff;
+  font-size: 70px;
+  font-family: 'Goldman', cursive;
+  border: 2px solid #00FFFF;
+  padding: 0px 5px 0px 5px;
+  border-radius: 10px;
+}
